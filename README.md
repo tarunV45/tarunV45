@@ -25,7 +25,7 @@ AI Engineer building evaluation and observability frameworks for LLM application
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--v08-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarun-v08/)
-[![Email](https://img.shields.io/badge/Email-nv30%40rice.edu-red?style=flat&logo=gmail)](mailto:nv30@rice.edu)
+[![Email](https://img.shields.io/badge/Email-nv30%40rice.edu-red?style=flat&logo=gmail)](mailto:tarunvj456@gmail.com)
 
 ---
 *Most of my recent professional work is in private repositories at PepsiCo. The projects here represent my personal, academic, and open-source work.*
